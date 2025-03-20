@@ -3,3 +3,5 @@ This is a new paragraph from the newParagraph branch. If you see this, then we s
 Let's see what happens.
 
 I deleted hello world!
+
+Here is another paragraph!
