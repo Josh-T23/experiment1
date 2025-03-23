@@ -5,3 +5,35 @@ Let's see what happens.
 I deleted hello world!
 
 Here is another paragraph!
+
+lorem lorem 
+
+
+This is a new paragraph from the newParagraph branch. If you see this, then we should be good. Yessir!
+Let's see what happens.
+
+I deleted hello world!
+
+Here is another paragraph!
+
+This is a new paragraph from the newParagraph branch. If you see this, then we should be good. Yessir!
+Let's see what happens.
+
+I deleted hello world!
+
+Here is another paragraph!
+
+This is a new paragraph from the newParagraph branch. If you see this, then we should be good. Yessir!
+Let's see what happens.
+
+I deleted hello world!
+
+Here is another paragraph!
+
+
+This is a new paragraph from the newParagraph branch. If you see this, then we should be good. Yessir!
+Let's see what happens.
+
+I deleted hello world!
+
+Here is another paragraph!
